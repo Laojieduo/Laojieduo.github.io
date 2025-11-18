@@ -1,4 +1,9 @@
 ---
+# Change avatar
+avatar:
+  image: clq.png
+# alt: Your Name
+
 # Display name
 title: Liquan Chen
 
